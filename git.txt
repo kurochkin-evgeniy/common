@@ -1,0 +1,14 @@
+
+
+GIT  ================================================================================
+
+git stash save --keep-index --include-untracked
+git stash drop
+
+git rebase origin/master
+git reset HEAD~ отменить последний коммит
+
+
+git gc --prune=now
+git remote prune origin
+

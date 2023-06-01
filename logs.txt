@@ -1,0 +1,3 @@
+
+
+zcat 123.log.gz | grep error | cut -n 2
