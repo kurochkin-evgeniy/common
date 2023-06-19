@@ -1,0 +1,21 @@
+package main
+
+import (
+	"log"
+	"os"
+)
+
+func main() {
+
+	_, err := os.Open("")
+	if err != nil {
+		log.Fatal(err)
+		return
+	}
+
+}
+func main() {
+func main() {
+
+	func main() {
+
