@@ -1,0 +1,9 @@
+go 1.20
+
+use (
+	./internal/server
+    ./internal/client
+    ./internal/contract
+    ./cmd/server
+    ./cmd/cli
+)
