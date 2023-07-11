@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program":"${workspaceFolder}/cmd",
+            "program":"${workspaceFolder}/cmd/cli",
             "args": [
                 "play",
                 "--load=C:\\repos\\1.txt",
@@ -21,7 +21,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program":"${workspaceFolder}/cmd",
+            "program":"${workspaceFolder}/cmd/cli",
             "args": [
                 "gen",
                 "--f=30x30",
